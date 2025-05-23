@@ -1,5 +1,6 @@
 # Social-Media-Mining-ReWake-Community-Network-Analysis
-This Python project focuses on mining and analyzing the community of commenters from the YouTube channel @ReWake by modeling their interactions as a network graph. The goal is to extract meaningful insights about the community's structure, relationships, and sentiment patterns.
+A Project in Computer Science from the social media mining course of  @ University of Milan
+
 
 Project Overview
 The project leverages the YouTube Data API to collect comments from ReWake's videos, processes the data to identify unique commenters, and constructs a graph where:
